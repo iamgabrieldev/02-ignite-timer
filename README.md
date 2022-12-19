@@ -40,7 +40,7 @@ O Ignite Timer nada mais é que um projeto que permite ao usuário cronometrar a
 
 ## 💻 Deploy
 
-Clique no link a seguir para executar o projeto na sua máquina: <a target="_blank" href="https://ignite-timer-pearl.vercel.app/">Link</a>
+Clique no link a seguir para executar o projeto na sua máquina: <a target="_blank" href="https://02-ignite-timer-gamma.vercel.app/">Link</a>
 
 
 ## 🚀 Technologies
