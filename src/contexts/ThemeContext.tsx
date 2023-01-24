@@ -6,8 +6,8 @@ import {
   useState,
 } from 'react'
 import { ThemeProvider } from 'styled-components'
-import { darkTheme } from '../styles/themes/dark'
 import { lightTheme } from '../styles/themes/light'
+import { darkTheme } from '../styles/themes/dark'
 
 interface ThemeContextData {
   toggleTheme: () => void
